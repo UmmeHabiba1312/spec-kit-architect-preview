@@ -1,0 +1,11 @@
+name: Architect Impact Previewer
+id: architect-preview
+version: 1.0.0
+description: Predicts architectural impact, complexity, and risks of proposed changes before implementation.
+author: Umme Habiba
+repository: https://github.com/UmmeHabiba1312/spec-kit-architect-preview
+license: MIT
+provides:
+  commands:
+    - name: preview-impact
+      description: Predicts architectural impact of changes
